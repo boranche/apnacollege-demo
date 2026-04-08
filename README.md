@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git Repo 
 <br>
-Author- Archna sing
+Author- Archna sing (Apna college)
